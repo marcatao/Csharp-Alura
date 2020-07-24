@@ -1,0 +1,7 @@
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\bin\Debug\variaveis.exe
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\bin\Debug\variaveis.pdb
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\obj\Debug\variaveis.csprojAssemblyReference.cache
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\obj\Debug\variaveis.exe
+C:\Users\system32\Google Drive\Estudos\.net\CursoCsharp\variaveis\obj\Debug\variaveis.pdb
